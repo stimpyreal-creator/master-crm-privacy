@@ -35,3 +35,18 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ## 7. Contact Us
 If you have any questions about this Privacy Policy or your data, please contact us at:
 **Email:** [master.crm13@gmail.com]
+
+---
+
+## Account and Data Deletion Instructions (Удаление аккаунта и данных)
+
+Users of **MASTER CRM** can permanently delete their account and all associated cloud and local data at any time using either of the following methods:
+
+### Method 1: Instant Deletion Inside the App
+1. Open **MASTER CRM** on your device and sign in to your account.
+2. Long-press the **«ДЕТАЛИ» (PARTS)** button in the top navigation bar to open **Settings**.
+3. Scroll down to the account section and tap **«Удалить аккаунт и все данные» (Delete Account and All Data)**.
+4. Confirm the deletion. All your profile credentials, service orders, client records, and financial calculations will be **immediately and permanently erased** from our Supabase cloud servers and your device.
+
+### Method 2: Request Deletion via Email
+If you no longer have access to the app, you can request manual deletion by sending an email to **[master.crm13@gmail.com]** with the subject **"Delete MASTER CRM Account"** from the email address registered in the app. Your account and all associated data will be completely deleted within **48 hours**.
