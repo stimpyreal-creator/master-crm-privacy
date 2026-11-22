@@ -34,4 +34,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## 7. Contact Us
 If you have any questions about this Privacy Policy or your data, please contact us at:
-**Email:** [ваш_рабочий_email@gmail.com]
+**Email:** [master.crm13@gmail.com]
