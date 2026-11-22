@@ -50,3 +50,15 @@ Users of **MASTER CRM** can permanently delete their account and all associated 
 
 ### Method 2: Request Deletion via Email
 If you no longer have access to the app, you can request manual deletion by sending an email to **[master.crm13@gmail.com]** with the subject **"Delete MASTER CRM Account"** from the email address registered in the app. Your account and all associated data will be completely deleted within **48 hours**.
+
+---
+
+## Terms of Use (Условия использования)
+
+By downloading or using **MASTER CRM**, you agree to the following terms:
+
+* **License & Purpose:** MASTER CRM is provided as a mobile business organizer for field service technicians. You retain full ownership of all client and order records you enter into the App.
+* **Subscriptions & Free Trial:** New users receive a **7-day free trial**. After the trial expires, continued access requires an active auto-renewing subscription (**MASTER CRM PRO**) billed through Google Play. You can manage or cancel your subscription at any time in your **Google Play Store → Payments & subscriptions** settings.
+* **Data Backup:** While we provide cloud synchronization via Supabase, you are encouraged to periodically export local JSON backups of your records.
+* **Disclaimer:** The App is provided "as is". We are not liable for any indirect loss of business data resulting from device failure or unauthorized access to an unlocked device.
+
